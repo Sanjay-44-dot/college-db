@@ -1,2 +1,3 @@
 hello git 
 Second line 
+Added from copy 
